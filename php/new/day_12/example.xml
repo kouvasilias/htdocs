@@ -1,0 +1,40 @@
+<producers>
+
+
+	<producer>
+		<name>Elias</name>
+		<age>19</age>
+
+
+		<show>
+		<showname>snow day in berlin</showname>
+		<showdate>24th of December 2015</showdate>
+		</show>
+
+		<show>
+		<showname>snow day in paris</showname>
+		<showdate>25th of December 2015</showdate>
+		</show>
+
+		
+
+	</producer>
+
+	<producer>
+		<name>Billy</name>
+		<age>20</age>
+		
+		<show>
+		<showname>snow day in new york</showname>
+		<showdate>25th of December 2015</showdate>
+		</show>
+
+
+	</producer>
+
+	<producer>
+		<name>Mike</name>
+		<age>21</age>
+	</producer>
+
+</producers>
